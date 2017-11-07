@@ -1,8 +1,8 @@
 {
   "apps": [{
-    "name": "www.thinkjs.org",
+    "name": "wechath-doc",
     "script": "production.js",
-    "cwd": "/home/welefen/www/www.thinkjs.org",
+    "cwd": "/home/zhengqingxin/wechath-doc",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
     "autorestart": true,
