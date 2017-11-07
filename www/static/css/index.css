@@ -172,7 +172,7 @@ i.icon-fet8{ background-position:-70px -210px;}
   .header{height:auto;}
   .wrap{width: 100%;}
   .logo{margin: 10px auto;float: none}
-  .headr{float:none;border-top: 1px solid #efefef;}
+  .headr{float:none;border-top: 1px solid #efefef;margin-left: 50px;}
   .nav li.discuss,
   .nav li.firekylin{display: none;}
   .nav{display: flex;justify-content:center;align-items:center;;margin-right: 0;width: 96%;margin: auto}
