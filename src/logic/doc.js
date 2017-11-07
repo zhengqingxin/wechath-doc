@@ -14,8 +14,8 @@ module.exports = class extends think.Logic {
       this.version = {
         string: true,
         required: true,
-        in: ['1.2', '2.0', '2.1', '2.2', '3.0'],
-        default: '3.0',
+        in: ['1.0'],
+        default: '1.0',
         trim: true,
         method: 'GET'
       };

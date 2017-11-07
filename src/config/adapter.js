@@ -75,10 +75,13 @@ exports.view = {
   common: {
     viewPath: path.join(think.ROOT_PATH, 'view'),
     sep: '_',
-    extname: '.html'
+    extname: '.html',
   },
   ejs: {
-    handle: ejs
+    handle: ejs,
+    options: {
+      cache: !isDev
+    }
   }
 };
 
