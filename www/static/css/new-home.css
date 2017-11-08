@@ -190,3 +190,18 @@
       padding-top: 20px;
     }
   }
+
+/* rammetto-one-normal - latin */
+@font-face {
+  font-family: 'Rammetto One';
+  font-style: normal;
+  font-weight: regular;
+  src: url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Rammetto One'), local('RammettoOne-Normal'),
+       url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('//lib.baomitu.com/fonts/rammetto-one/rammetto-one-v6-latin-regular.svg#RammettoOne') format('svg'); /* Legacy iOS */
+}
+  

@@ -26,7 +26,7 @@ a.navbar-brand, a.navbar-brand:hover {
   width: 130px;
   /* margin-top: 17px; */
   text-indent: -999em;
-  background: url('/static/img/logo.svg');
+  background: url('/static/img/new/logo.png');
   background-size: cover;
 }
 
@@ -47,7 +47,7 @@ a.navbar-brand, a.navbar-brand:hover {
 .head {
   font-size: 5rem;
   font-weight: 700;
-  font-family: 'Hammersmith One', sans-serif;
+  font-family: 'Rammetto One', sans-serif;
 }
 #main h3 {
   font-family: -apple-system, BlinkMacSystemFont, Avenir, "Avenir Next", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
