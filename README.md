@@ -1,33 +1,6 @@
-# www.thinkjs.org
 
-ThinkJS website code
+# Wechath
 
-![www.thinkjs.org](http://p0.qhimg.com/d/inn/20b8a871/1.jpg)
+**如果你正在做微信开发，它可能会让你省不少时间。**
 
-## Installation
-
-```
-git clone git@github.com:75team/www.thinkjs.org.git
-```
-
-## Install dependencies
-
-```
-npm install
-```
-
-## Compile
-
-```
-npm run compile
-```
-
-## Start server
-
-```
-npm start
-```
-
-## How to visit
-
-Open url `http://127.0.0.1:7777/` in browser.
+参考地址：[https://wechath.zhengqingxin.com](https://wechath.zhengqingxin.com)
