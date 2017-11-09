@@ -11,13 +11,6 @@
 
 如上图，先将 `MP_verify_PwmQKE4JhwRd6nQw.txt` 文件下载下来，放在项目目录 `www` 下。确定http://your_domain/MP_verify_PwmQKE4JhwRd6nQw.txt 能访问后，再点击确定。
 
-### 获取 sdk 配置
-Wechath 提供了通用的获取配置的接口：
-
-### 页面中引入微信脚本
-
-在需要调用JS接口的页面引入如下JS文件，（支持https）：`http://res.wx.qq.com/open/js/jweixin-1.2.0.js`
-
 ### 获取配置参数
 Wechath 提供了获取 js-sdk 配置参数的方法，用户通过调用此接口可以拿到需要的配置参数，并重定向到指定页面。
 
@@ -31,6 +24,12 @@ Wechath 提供了获取 js-sdk 配置参数的方法，用户通过调用此接�
   "url":"https://wechath.zhengqingxin.com"
 }
 ```
+
+### 页面中引入微信脚本
+
+在需要调用JS接口的页面引入如下JS文件，（支持https）：`http://res.wx.qq.com/open/js/jweixin-1.2.0.js`
+
+
 ### 页面中初始化js-sdk
 
 通过上述接口，可以在 url 中取到相关配置，我们就可以初始化了。例如：
